@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oluyemideola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oluyemideola" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/johnson-adeola-21148b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnson adeola" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/johnson-adeola-21148b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnson adeola" height="30" width="40" /></a>
 <a href="https://kaggle.com/adeola johnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adeola johnson" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_deola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_deola" height="30" width="40" /></a>
 </p>
