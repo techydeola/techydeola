@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techydeola&label=Profile%20views&color=0e75b6&style=flat" alt="techydeola" /> </p>
 
-- 🌱 I’m currently learning **django, javascript, nodejs**
-
-- 💬 Ask me about **Python, Shell, MySQL, Django**
-
 - 📫 How to reach me **adeola.johnson.37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
